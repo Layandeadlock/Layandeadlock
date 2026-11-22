@@ -101,17 +101,15 @@ The project focuses on structured data processing and preparing extracted conten
 - Cloud technologies
 
 ---
+## 𝔠𝔬𝔫𝔫𝔢𝔠𝔱 𝔴𝔦𝔱𝔥 𝔪𝔢
 
 <p align="center">
   <a href="mailto:Layan2185@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-65000B?style=for-the-badge&logo=gmail&logoColor=D8C5C7&labelColor=000000" />
-  </a>
-  <p align="center">
+  </a>&nbsp;
   <a href="https://wa.me/966500373332">
     <img src="https://img.shields.io/badge/WHATSAPP-65000B?style=for-the-badge&logo=whatsapp&logoColor=D8C5C7&labelColor=000000" />
-  </a>
-   
-</p>
+  </a>&nbsp;
   <a href="https://www.linkedin.com/in/layan-alsubhi-96ba03368/">
     <img src="https://img.shields.io/badge/LINKEDIN-65000B?style=for-the-badge&logo=linkedin&logoColor=D8C5C7&labelColor=000000" />
   </a>
