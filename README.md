@@ -106,9 +106,11 @@ The project focuses on structured data processing and preparing extracted conten
   <a href="mailto:Layan2185@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-65000B?style=for-the-badge&logo=gmail&logoColor=D8C5C7&labelColor=000000" />
   </a>
-  <a href="tel:+966500373332">
-  <img src="https://img.shields.io/badge/PHONE-65000B?style=for-the-badge&logo=phone&logoColor=D8C5C7&labelColor=000000" />
-</a>
+  <p align="center">
+  <a href="https://wa.me/966500373332">
+    <img src="https://img.shields.io/badge/WHATSAPP-65000B?style=for-the-badge&logo=whatsapp&logoColor=D8C5C7&labelColor=000000" />
+  </a>
+</p>
   <a href="https://www.linkedin.com/in/layan-alsubhi-96ba03368/">
     <img src="https://img.shields.io/badge/LINKEDIN-65000B?style=for-the-badge&logo=linkedin&logoColor=D8C5C7&labelColor=000000" />
   </a>
