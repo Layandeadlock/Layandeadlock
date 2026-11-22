@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3500&pause=1500&color=A52A3A&background=000000&center=true&vCenter=true&width=750&height=65&lines=layan%40localhost%3A~%24+whoami;Computer+Science+Student;layan%40localhost%3A~%24+explore+cybersecurity;layan%40localhost%3A~%24+build+something+extraordinary;Curiosity+is+a+beautiful+thing."
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3500&pause=1500&color=A52A3A&background=000000&center=true&vCenter=true&width=750&height=65&lines=layan%40Major%3A~%24+whoami;Computer+Science+Student;layan%40Track%3A~%24+explore+cybersecurity;layan%40localhost%3A~%24+build+something+extraordinary;Curiosity+is+a+beautiful+thing."
   />
 </p>
 
@@ -103,10 +103,14 @@ The project focuses on structured data processing and preparing extracted conten
 
 ---
 
-## 𝔠𝔬𝔫𝔫𝔢𝔠𝔱 𝔴𝔦𝔱𝔥 𝔪𝔢
-
 <p align="center">
+  <a href="mailto:Layan2185@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-65000B?style=for-the-badge&logo=gmail&logoColor=D8C5C7&labelColor=000000" />
+  </a>
+  <a href="tel:+966500373332">
+    <img src="https://img.shields.io/badge/PHONE-65000B?style=for-the-badge&logo=phone&logoColor=D8C5C7&labelColor=000000" />
+  </a>
   <a href="https://www.linkedin.com/in/layan-alsubhi-96ba03368/">
-    <img src="https://img.shields.io/badge/CONNECT%20WITH%20ME-65000B?style=for-the-badge&logo=linkedin&logoColor=D8C5C7&labelColor=000000" />
+    <img src="https://img.shields.io/badge/LINKEDIN-65000B?style=for-the-badge&logo=linkedin&logoColor=D8C5C7&labelColor=000000" />
   </a>
 </p>
