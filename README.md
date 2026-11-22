@@ -30,7 +30,7 @@ class Layan:
         self.interests = [
             "Cybersecurity",
             "Software Development",
-            "Technology"
+            "artificial intelligence"
         ]
 
         self.languages = [
@@ -95,6 +95,7 @@ The project focuses on structured data processing and preparing extracted conten
 ## 𝔠𝔲𝔯𝔯𝔢𝔫𝔱𝔩𝔶 𝔢𝔵𝔭𝔩𝔬𝔯𝔦𝔫𝔤
 
 - Cybersecurity fundamentals
+- artificial intelligence
 - Linux and computer networking
 - Secure software development
 - Cloud technologies
