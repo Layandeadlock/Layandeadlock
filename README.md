@@ -3,8 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3500&pause=1500&color=A52A3A&background=000000&center=true&vCenter=true&width=750&height=65&lines=l>%3A~%24Computer+Science+Student;%3A> %24+cybersecurity+Track;%40%3A~%24+build+something+extraordinary;Curiosity+is+a+beautiful+thing."
-  />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3500&pause=1500&color=A52A3A&background=000000&center=true&vCenter=true&width=750&height=65&lines=%3Ecomputer+science+student;%3Ecybersecurity+track;%3Ebuild+something+extraordinary;%3Ecuriosity+is+a+beautiful+thing." />
 </p>
 
 <p align="center">
